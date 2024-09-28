@@ -1,2 +1,3 @@
 # full_python
-There is gonna be everything I studied in python . In order to revise relying on my own knowledge.
+There are gonna be projects with everything I studied in python. 
+Projects done  relying on my own knowledge. For revision purpose aswell.
